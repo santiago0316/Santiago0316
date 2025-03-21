@@ -1,4 +1,5 @@
-# Hello [👋](https://patorjk.com/software/taag/#p=testall&f=Dancing%20Font&t=Ascii), I'm [Your Name]
+# Hello [👋](https://patorjk.com/software/taag/#p=testall&f=Dancing%20Font&t=Ascii), I'm [Santiago Patiño] 
+
 
 ```                                                                                     
   /$$$$$$                      /$$ /$$
@@ -15,8 +16,12 @@
 <br>
 
 ## 🚀 About Me
-I have a great passion for [mention your professional interests] and a strong curiosity for [specific fields like web development, graphic design, medicine, etc.].  
-I'm always eager to learn and improve my skills. This is my portfolio where I'll share my projects and progress.  
+I'm Santiago, I'm 16 years old and I don't like to stand still. I always have to be doing something, because if I leave things for later, I get stressed. I like to face what comes immediately, without beating around the bush.
+
+I'm tall and corpulent, with big hands and a lot of strength. Since I was a child I have been naughty and curious, always getting into everything. I loved the hoses, the tools and disassembly toys just to see what they had inside and how they worked. It wasn't just to play, it was because I needed to understand everything my way.
+
+I'm still like that. I can't help it. I like to discover, touch, try, do. I'm not one of those who stare, I have to put my hands in and see for myself.
+
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
