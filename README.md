@@ -38,24 +38,25 @@ I'm still like that. I can't help it. I like to discover, touch, try, do. I'm no
 
 ## 🎓 My Education
 
-- **[Institution Name]** – [Year]  
-- **[Certification Name]** – [Platform or Institution]  
-- **[Certification Name]** – [Platform or Institution]
+- **[Reggio Emilia School]** – [currently in eleventh grade]  
+- **[Reggio Emilia School]** – [Platform or Institution]  
+- **[Reggio Emilia School]** – [Platform or Institution]    
+- **[Reggio Emilia School]** – [Platform or Institution]
 
 <br>
 
 ## 🎯 My Career Roadmap  
 
 🟡 **Short-Term Goals (0-6 months)**  
-- [ ] [Example: Learn Python and Git]  
+Improve my sleep routine (going to sleep and waking up at the same time).Managing stress when something doesn't go the way I want] [Example: Learn Python and Git]  
 - [ ] [Example: Build my first web development project]  
 
-🟠 **Mid-Term Goals (6-12 months)**  
-- [ ] [Example: Contribute to an open-source project]  
+🟠 **Mid-Term Goals (6-12 months)**    
+- [ I would like to learn extensively about all the topics we are looking at.] [Example: Contribute to an open-source project]  
 - [ ] [Example: Obtain a cybersecurity certification]  
 
 🔴 **Long-Term Goals (+1 year)**  
-- [ ] [Example: Get an internship or job in tech]  
+- [ Soy Santiago, apasionado por el Derecho y las Ciencias Políticas. Quiero usar mi carácter fuerte y determinación para entender las leyes, resolver problemas y generar impacto. Mi meta es aplicar el conocimiento para hacer cambios reales y marcar la diferencia en la sociedad.] [Example: Get an internship or job in tech]  
 - [ ] [Example: Develop a software that helps the community]  
 
 > [!NOTE]
